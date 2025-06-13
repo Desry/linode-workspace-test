@@ -1,0 +1,17 @@
+{
+  "delayedStartTime": "2025-05-24 22:28:00",
+  "node": "LINUX",
+  "owner": "Administrator",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "LINUX",
+  "statisticMethod": "AVERAGE",
+  "statisticPeriod": "MONTH",
+  "taskType": "SH",
+  "timeZone": "Europe/Warsaw",
+  "customFieldValues": {
+  },
+  "processingCommand": {
+    "script": "whoami\n\nsleep 1m"
+  }
+}

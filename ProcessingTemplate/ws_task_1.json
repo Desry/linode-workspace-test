@@ -1,0 +1,16 @@
+{
+  "node": "LINUX",
+  "owner": "Administrator",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "LINUX",
+  "statisticMethod": "AVERAGE",
+  "statisticPeriod": "MONTH",
+  "taskType": "SH",
+  "workspace": "Test",
+  "customFieldValues": {
+  },
+  "processingCommand": {
+    "script": "echo hello"
+  }
+}
