@@ -5,6 +5,10 @@
   "serverNodeType": "INTERNAL",
   "statisticMethod": "AVERAGE",
   "statisticPeriod": "MONTH",
+  "tags": 
+  [
+    "Global"
+  ],
   "taskType": "WAIT",
   "customFieldValues": {
   },

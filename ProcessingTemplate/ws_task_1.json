@@ -6,6 +6,10 @@
   "serverNodeType": "LINUX",
   "statisticMethod": "AVERAGE",
   "statisticPeriod": "MONTH",
+  "tags": 
+  [
+    "Global"
+  ],
   "taskType": "SH",
   "workspace": "Test",
   "customFieldValues": {
